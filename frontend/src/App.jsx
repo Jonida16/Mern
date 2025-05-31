@@ -3,6 +3,9 @@ import Dashboard from "./components/Dashboard";
 import Login from "./components/Login";
 import Register from "./components/Register";
 import Header from "./components/Header";
+import {ToastContanier} from 'react-toastify';
+import "react-toastify/dist/ReactToastify.css";
+
 
 function App() {
 
